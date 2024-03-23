@@ -1,6 +1,7 @@
 # regional_sales_analysis
 
 TABLEAU DASHBOARD PROJECT: REGIONAL SALES ANALYSIS
+https://public.tableau.com/views/SalesDashboard_17087882330960/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Created an interactive Tableau dashboard to delve into regional sales data.
 Implemented user-friendly filters to explore sales performance across regions dynamically.
